@@ -1,0 +1,1 @@
+# jetbrains-crud-generator-plugin
