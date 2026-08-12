@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security disclosure
+    url: https://github.com/giuseppe-trisciuoglio/jetbrains-crud-generator-plugin/blob/main/SECURITY.md
+    about: For security issues, please follow the coordinated disclosure policy in SECURITY.md. Do not open a public issue.
+  - name: JetBrains Marketplace page
+    url: https://plugins.jetbrains.com/plugin/io.laborinto.crudgenerator
+    about: Installation, ratings, and reviews.
+  - name: Example projects repository
+    url: https://github.com/giuseppe-trisciuoglio/jetbrains-crud-generator-plugin-examples
+    about: Ready-to-run Spring Boot projects showing what CrudGenerator produces.
+  - name: End-User License Agreement
+    url: https://github.com/giuseppe-trisciuoglio/jetbrains-crud-generator-plugin/blob/main/EULA.md
+    about: The terms under which the binary plugin is distributed.
